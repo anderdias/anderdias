@@ -1,11 +1,11 @@
-# Anderon Dias :man_technologist:
+# Anderson Dias :man_technologist:
 
 
-Hello, I'm Anderson Dias! 👋 Computer Engineering Intern at FESC Tecnologia
+Hello, I'm Anderson Dias! 👋 Front-end developer at Zitrus Healthtech
 
 
 - 🔭 I’m currently working on JavaScript framework Vue.js
-- 🌱 I’m currently learning JavaScript, Vue.js, Node e Clean Code
+- 🌱 I’m currently learning JavaScript, Vue.js, React, Node and Clean Code
 - 📚 Student at Unisociesc University
 - :round_pushpin:  From Joinville - SC - Brazil
 
